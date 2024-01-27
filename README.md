@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: vkretiska](https://img.shields.io/twitter/follow/vkretiska?style=social)](https://twitter.com/vkretiska)
-[![Linkedin: vitor-kretiska](https://img.shields.io/badge/vitor-kretiska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kretiska/)](https://www.linkedin.com/in/vitor-kretiska/)
+[![Linkedin: vitor-kretiska](https://img.shields.io/badge/vitorkretiska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kretiska/)](https://www.linkedin.com/in/vitor-kretiska/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/vitorkm?label=follow&style=social)](https://github.com/Vitorkm)
 
 
