@@ -15,10 +15,10 @@ const vitor = {
   code: [Javascript, Typescript, HTML, CSS, Python, C++],
   tools: [React, React-Native, Django, MaterialUI, Styled-Components, Celery, RabbitMQ, Docker, AWS],
   architecture: ["microservices", "event-driven", "space-based"],
- challenge: "Always trying to be better!"
+  challenge: "Always trying to be better!"
 }
 ```
 
-<img src="https://media.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.gif" width="100"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
