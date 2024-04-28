@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vitor Kretiska! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="230">
-<p><em>Student of Automation Engineering at <a href="https://ufsc.br">Federal University of Santa Catarina</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginner at <a href="https://neo.certi.org.br">NEO Empresarial</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student of Automation Engineering at <a href="https://ufsc.br">Federal University of Santa Catarina</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginner at <a href="https://twitter.com/phaselabs_">Phase Labs Ø</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: vkretiska](https://img.shields.io/twitter/follow/vkretiska?style=social)](https://twitter.com/vkretiska)
