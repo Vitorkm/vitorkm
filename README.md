@@ -5,7 +5,7 @@
 
 [![Twitter: sanj_sol](https://img.shields.io/twitter/follow/sanj_sol?style=social)](https://twitter.com/sanj_sol)
 [![Linkedin: vitor-kretiska](https://img.shields.io/badge/vitorkretiska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kretiska/)](https://www.linkedin.com/in/vitor-kretiska/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/vitorkm?label=follow&style=social)](https://github.com/Vitorkm)
+[![GitHub Sanj](https://img.shields.io/github/followers/sanjsol?label=follow&style=social)](https://github.com/sanjsol)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
