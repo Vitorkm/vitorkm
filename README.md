@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vitor Kretiska also known as sanJ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="230">
-<p></br>Software Enginner at <a href="https://twitter.com/phaselabs_">Phase Labs Ø</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Member at <a href="https://twitter.com/SuperteamBR">Superteam Brazil</a>   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHquT_Te9EFGw/company-logo_200_200/company-logo_200_200/0/1705607861180/superteam_brazil_logo?e=2147483647&v=beta&t=O4-DvSy-hnIACIQXq_k6VbYW_ShZ67mKV_uPdTwJs2Y" width="20"> 
+<p></br>Sr. Blockchain Enginner at <a href="https://twitter.com/phaselabs_">Phase Labs Ø</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Member at <a href="https://twitter.com/SuperteamBR">Superteam Brazil</a>   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHquT_Te9EFGw/company-logo_200_200/company-logo_200_200/0/1705607861180/superteam_brazil_logo?e=2147483647&v=beta&t=O4-DvSy-hnIACIQXq_k6VbYW_ShZ67mKV_uPdTwJs2Y" width="20"> 
 </em></p>
 
 [![Twitter: sanj_sol](https://img.shields.io/twitter/follow/sanj_sol?style=social)](https://twitter.com/sanj_sol)
